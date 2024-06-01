@@ -1,0 +1,1 @@
+export const ALLOWED_USERS = [6669453785];
